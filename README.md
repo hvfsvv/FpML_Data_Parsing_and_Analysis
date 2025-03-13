@@ -4,7 +4,7 @@ Ce projet utilise **TensorFlow** pour traiter et analyser des données issues d�
 
 ---
 
-## 🔧 Fonctionnalités principales  
+## Fonctionnalités principales  
 1. **Lecture et extraction du fichier TpML**.  
 2. **Préparation des données pour l'entraînement du modèle**.  
 3. **Création et entraînement d’un modèle TensorFlow** pour analyser ou classer les données.  
@@ -12,7 +12,7 @@ Ce projet utilise **TensorFlow** pour traiter et analyser des données issues d�
 
 ---
 
-## 🛠️ Installation  
+##  Installation  
 Assurez-vous d’avoir TensorFlow installé :  
 ```bash
 pip install tensorflow
@@ -20,7 +20,7 @@ pip install tensorflow
 
 ---
 
-## ▶️ Exécution  
+##  Exécution  
 Clonez le repo et lancez le notebook :  
 ```bash
 git clone <url_du_repo>
