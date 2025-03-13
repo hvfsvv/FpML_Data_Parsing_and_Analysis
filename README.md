@@ -54,9 +54,4 @@ The notebook evaluates model performance using:
 - **RMSE** (Root Mean Square Error)
 - **R² score** (Coefficient of determination)
 
-##  **Future Improvements**
-
-- Implementing advanced models like LSTM or Prophet.
-- Hyperparameter tuning with GridSearch or RandomSearch.
-- Adding cross-validation for more reliable performance analysis.
 
